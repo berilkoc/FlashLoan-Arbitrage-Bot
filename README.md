@@ -2,7 +2,7 @@
 What are Flash Loans?
 Flash Loans enable crypto users to take out near-instant crypto loans without having to provide collateral in return. The process is entirely decentralized and does not require any kind of KYC documentation. Even for beginners, the process takes a few minutes at most.
 
-![FlashLoanAttackTool](https://raw.githubusercontent.com/crossdilemma/FlashLoanAttackTool/main/FLIns.png)
+![FlashLoanAttackTool](https://raw.githubusercontent.com/crossdilemma/FlashLoan-Arbitrage-Bot/main/FLIns.png)
 
 
 By requesting a flash loan, users can take any sum of money possible. Even millions you might ask? That is entirely possible.
@@ -16,7 +16,7 @@ The action of reverting a flash loan is possible with the help of EIP-140, an Et
 
 Flash Loans Use Cases
 
-![FlashLoanAttackTool](https://raw.githubusercontent.com/crossdilemma/FlashLoanAttackTool/main/fluc.png)
+![FlashLoanAttackTool](https://raw.githubusercontent.com/crossdilemma/FlashLoan-Arbitrage-Bot/main/fluc.png)
 
 
 
